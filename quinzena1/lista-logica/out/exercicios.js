@@ -140,3 +140,6 @@ function checaValidadeInscricaoLabenu() {
 
   console.log(idade =="sim" && escolaridade =="sim" && disponibilidade =="sim");
 }
+
+
+//termino
