@@ -1,7 +1,7 @@
 // Exercicio 1 a-Será impresso 10 e 50
 //              b- não vai aprerecer nada, vai dar erro
 // Exercicio 2 - não haverá nenhuma saida pois o codigo não buscou a entrada
-
+//aa
 
 //Exercicio 1-a = sem parametros
 function meusDados(){
