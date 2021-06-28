@@ -1,0 +1,68 @@
+body{
+    background-image: url(../img/fundo2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.logo{
+    background-color: aqua;
+    text-align: center;
+    border: solid 4px black;
+     width: 500px; 
+    margin-left: 400px;
+    margin-right: auto; 
+    }
+
+h1{
+    text-align: center;
+ }
+.menu{
+    text-align: right;
+    background-position: right;
+    font-size: 20px;
+    
+}
+a{
+    color:blanchedalmond;
+    font-family: sans-serif;
+    text-decoration: none;
+    margin: 20px;
+    
+}
+.titulo{
+    font-family: cursive;
+}
+
+p{
+    font-family: cursive;
+}
+
+.menuProduto{
+    margin: 50px;
+    
+    
+}
+
+.link{
+    margin-bottom: 10px;
+}
+
+.descricao{
+    margin-bottom: 10px;
+}
+
+.preco{
+    margin-bottom: 10px;
+}
+
+.quantidade{
+    margin-bottom: 10px;
+}
+
+.rodape {
+    font-size: 20px;
+    text-align: center;
+    padding: 1rem 0;
+    color: #0e2b3d;
+    background-color: cornflowerblue;
+}
