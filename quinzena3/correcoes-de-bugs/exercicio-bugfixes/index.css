@@ -107,9 +107,10 @@ div:last-child {
 }
 
 table {
-    width: 100%;
+    width: 40%;
     text-align: center;
-    padding: auto;
+    margin-left: auto;
+    margin-right: auto; 
 }
 
 td button {
@@ -138,6 +139,9 @@ td button:hover{
     border-radius: 5px;
     font-size: 10px;
     color: black;
+    margin-left: 600px;
+    margin-top: 200px;
+    
 }
 
 #back-button:hover {
