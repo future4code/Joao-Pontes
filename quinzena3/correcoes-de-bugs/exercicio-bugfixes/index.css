@@ -18,7 +18,7 @@ h2 {
     
 }
 
-input {
+input  {
     height: 20px;
     width: 500px;
 }
@@ -119,7 +119,7 @@ td button  {
     color: #00ff; 
 }
 td button:hover{
-    background-color: aqua;
+    background-color: aqua ;
 }
 
 .container-do-search {
@@ -130,7 +130,7 @@ td button:hover{
 
 
 #back-button {
-    background-color: white;
+    background-color: blue;
     width: 100px;
     height: 20px;
     border: 1px solid black;
